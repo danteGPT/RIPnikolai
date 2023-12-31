@@ -1,0 +1,30 @@
+https://github.com/ricobank
+https://github.com/ricobank/apes.git
+
+https://nikolai.fyi/
+Using game theory and cryptography, we can make peer-to-peer protocols which act as corruption-resistant alternatives to financial institutions.
+
+Current Projects
+fir - concatenative binary IR; metered VM with first-class virtualization; zero-overhead nested rollups
+rico - fork of dai with original design for rate controller and reference price calculator
+dmap - ultraminimalist take on immutable registries, no root keys or backdoors for your software supply chain
+dpack - EVM address+artifact lockfile spec and tool, use with dmap to de-root your defi dapp
+feedbase - bust open EVM oracle network silos by making composability a competitive factor
+manaflow - smart contract VM with parallel validation of a stateful and composable programming model, an alternative to sharding
+minicash - big-block UTXO coin with fraud proofs and tiny spec, POC for manaflow scaling
+Past Projects
+“Past” means I no longer meaningfully contribute. Some are still active, some are not.
+
+(2020-2021) rai - fork of dai with a simple rate controller and emphasis on un-governance
+(2018-2019) balancer - N-dimensional constant-product automated market maker
+(2015-2018) makerdao/dai - collateralized stablecoin system
+(2015-2017) dappsys - early EVM building blocks
+(2014-2015) bitshares - pre-ethereum defi, first on-chain collateralized stablecoins
+(2010-2014) school at CMU - kernel and compiler
+Inspiration
+vitalik.ca – polymath savant
+Wisp by Mikael Brockman – lisp for wasm by main author of dai purple paper
+HVM and SIC by Victor Taelin – programming language savant with major breakthroughs
+Urbit by Curtis Yarvin – clean-slate redesign of entire computing stack
+collapseos.org/ – tiny operating system for improvised devices
+templeos.org – “… a modern x86-64 Commodore 64 … 640x480 resolution, 16-color display … designed according to explicit instructions from God.”
